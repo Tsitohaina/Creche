@@ -195,7 +195,7 @@ public class Parent {
                 Enfant[] id = p.getAllEnfant(5);
                 System.out.println(id.length);
                 for(int i=0;i<id.length;i++){
-                    System.out.println(id[i].nomEnfant);
+                    System.out.println(id[i].nomEnfant +"test");
                 }
         }
 }
