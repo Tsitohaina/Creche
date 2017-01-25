@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="5" hostname="ITU-PC" name="creche.ParentTest" skipped="0" tests="10" time="4.333" timestamp="2017-01-11T07:12:35">
+<testsuite errors="0" failures="0" hostname="ITU-PC" name="creche.ParentTest" skipped="0" tests="2" time="2.239" timestamp="2017-01-17T14:45:48">
   <properties>
     <property name="libs.jsp-compiler.javadoc" value="" />
     <property name="netbeans.autoupdate.country" value="FR" />
@@ -54,7 +54,6 @@
     <property name="libs.JWSAntTasks.maven-pom" value="" />
     <property name="libs.jstl.classpath" value="C:\Program Files (x86)\NetBeans 8.1\enterprise\modules\ext\jstl-impl.jar;C:\Program Files (x86)\NetBeans 8.1\enterprise\modules\ext\jstl-api.jar" />
     <property name="libs.testng.src" value="" />
-    <property name="nu.validator.spec.alt-advice" value="jar:file:/C:/Program%20Files%20(x86)/NetBeans%208.1/ide/modules/ext/validator.jar!/nu/validator/localentities/files/wiki_whatwg_org_wiki_Validator_nu_alt_advice" />
     <property name="libs.spring-webmvc3.0.src" value="" />
     <property name="libs.restapi.classpath" value="C:\Program Files (x86)\NetBeans 8.1\enterprise\modules\ext\jaxrs-2.0\javax.ws.rs-api-2.0.jar" />
     <property name="runmain.jvmargs" value="" />
@@ -69,7 +68,7 @@
     <property name="libs.j2me_common_ant.maven-pom" value="" />
     <property name="libs.spring-webmvc3.0.maven-pom" value="" />
     <property name="libs.swing-layout.maven-pom" value="" />
-    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner creche.ParentTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false showoutput=true outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=true formatter=org.apache.tools.ant.taskdefs.optional.junit.BriefJUnitResultFormatter formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Users\ITU\Documents\NetBeansProjects\Creche\build\test\results\TEST-creche.ParentTest.xml crashfile=C:\Users\ITU\Documents\NetBeansProjects\Creche\build\junitvmwatcher6854067099065276107.properties propsfile=C:\Users\ITU\Documents\NetBeansProjects\Creche\build\junit6576688093208588952.properties" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner creche.ParentTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false showoutput=true outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=true formatter=org.apache.tools.ant.taskdefs.optional.junit.BriefJUnitResultFormatter formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Users\ITU\Documents\NetBeansProjects\Creche\build\test\results\TEST-creche.ParentTest.xml crashfile=C:\Users\ITU\Documents\NetBeansProjects\Creche\build\junitvmwatcher8623732014604125764.properties propsfile=C:\Users\ITU\Documents\NetBeansProjects\Creche\build\junit5534286998325603880.properties" />
     <property name="build.classes.dir" value="build/web/WEB-INF/classes" />
     <property name="netbeans.accept_license_class" value="org.netbeans.license.AcceptLicense" />
     <property name="ap.supported.internal" value="true" />
@@ -297,7 +296,6 @@
     <property name="libs.absolutelayout.javadoc" value="" />
     <property name="libs.spring-framework300.javadoc" value="" />
     <property name="java.specification.name" value="Java Platform API Specification" />
-    <property name="nu.validator.spec.microsyntax-descriptions" value="jar:file:/C:/Program%20Files%20(x86)/NetBeans%208.1/ide/modules/ext/validator.jar!/nu/validator/localentities/files/wiki_whatwg_org_wiki_MicrosyntaxDescriptions" />
     <property name="no.dist.ear.dir" value="true" />
     <property name="java.specification.vendor" value="Oracle Corporation" />
     <property name="libs.javac-api.classpath" value="C:\Program Files (x86)\NetBeans 8.1\java\modules\ext\nb-javac-api.jar" />
@@ -310,8 +308,8 @@
     <property name="ap.cmd.line.internal" value="" />
     <property name="libs.eclipselinkmodelgen.maven-pom" value="" />
     <property name="libs.jsp-compilation-syscp.javadoc" value="" />
-    <property name="libs.eclipselinkmodelgen.javadoc" value="" />
     <property name="libs.javaee-endorsed-api-7.0.classpath" value="C:\Program Files (x86)\NetBeans 8.1\enterprise\modules\ext\javaee7-endorsed\javax.annotation-api.jar;C:\Program Files (x86)\NetBeans 8.1\enterprise\modules\ext\javaee7-endorsed\javax.xml.soap-api.jar;C:\Program Files (x86)\NetBeans 8.1\enterprise\modules\ext\javaee7-endorsed\jaxb-api-osgi.jar;C:\Program Files (x86)\NetBeans 8.1\enterprise\modules\ext\javaee7-endorsed\jaxws-api.jar;C:\Program Files (x86)\NetBeans 8.1\enterprise\modules\ext\javaee7-endorsed\jsr181-api.jar" />
+    <property name="libs.eclipselinkmodelgen.javadoc" value="" />
     <property name="libs.metro.javadoc" value="C:\Program Files (x86)\NetBeans 8.1\enterprise\docs\metro-1.4-doc.zip" />
     <property name="libs.struts.maven-pom" value="" />
     <property name="netbeans.home+have.tests" value="true" />
@@ -337,13 +335,13 @@
     <property name="javac.target" value="1.8" />
     <property name="build.test.classes.dir" value="build/test/classes" />
     <property name="src.dir" value="src/java" />
-    <property name="sun.awt.keepWorkingSetOnMinimize" value="true" />
-    <property name="annotation.processing.enabled" value="true" />
     <property name="libs.jpa2-persistence.src" value="" />
+    <property name="annotation.processing.enabled" value="true" />
+    <property name="sun.awt.keepWorkingSetOnMinimize" value="true" />
     <property name="libs.jsf20.src" value="" />
     <property name="libs.jpa20-persistence.src" value="" />
-    <property name="libs.jsf12.src" value="" />
     <property name="libs.DataBindingME-SVG.maven-pom" value="" />
+    <property name="libs.jsf12.src" value="" />
     <property name="j2ee.platform" value="1.7-web" />
     <property name="libs.JAVADB_DRIVER_LABEL.maven-pom" value="" />
     <property name="libs.struts.javadoc" value="C:\Program Files (x86)\NetBeans 8.1\enterprise\docs\struts-1.3.10-javadoc.zip" />
@@ -355,13 +353,13 @@
     <property name="dist.dir" value="dist" />
     <property name="libs.groovy-all.javadoc" value="" />
     <property name="testng.debug.mode" value="" />
-    <property name="javac.fork" value="false" />
     <property name="libs.groovy-all.classpath" value="C:\Program Files (x86)\NetBeans 8.1\groovy\modules\ext\groovy-all.jar" />
+    <property name="javac.fork" value="false" />
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
     <property name="default.javac.source" value="1.8" />
     <property name="debug-transport-by-os" value="dt_shmem" />
-    <property name="sun.jnu.encoding" value="Cp1252" />
     <property name="libs.MySQLDriver.src" value="" />
+    <property name="sun.jnu.encoding" value="Cp1252" />
     <property name="build.test.results.dir" value="build/test/results" />
     <property name="java.runtime.version" value="1.8.0_40-b26" />
     <property name="do.tmp.war.package.with.custom.manifest" value="true" />
@@ -398,15 +396,15 @@
     <property name="libs.Comet-GlassFish-v3.src" value="" />
     <property name="libs.restlib.javadoc" value="" />
     <property name="war.content.additional" value="" />
-    <property name="j2ee.platform.embeddableejb.classpath" value="C:/Program Files (x86)/glassfish-4.1.1/glassfish/lib/embedded/glassfish-embedded-static-shell.jar" />
     <property name="nb.internal.action.name" value="test" />
+    <property name="j2ee.platform.embeddableejb.classpath" value="C:/Program Files (x86)/glassfish-4.1.1/glassfish/lib/embedded/glassfish-embedded-static-shell.jar" />
     <property name="libs.JAXB-ENDORSED.classpath" value="C:\Program Files (x86)\NetBeans 8.1\ide\modules\ext\jaxb\api\jaxb-api.jar" />
     <property name="forceRedeploy" value="false" />
-    <property name="libs.eclipselink.classpath" value="C:\Program Files (x86)\NetBeans 8.1\java\modules\ext\eclipselink\eclipselink.jar;C:\Program Files (x86)\NetBeans 8.1\java\modules\ext\eclipselink\javax.persistence_2.1.0.v201304241213.jar;C:\Program Files (x86)\NetBeans 8.1\java\modules\ext\eclipselink\org.eclipse.persistence.jpa.jpql_2.5.2.v20140319-9ad6abd.jar" />
     <property name="libs.javaee-api-7.0.javadoc" value="C:\Program Files (x86)\NetBeans 8.1\enterprise\docs\javaee-doc-api.jar" />
+    <property name="libs.eclipselink.classpath" value="C:\Program Files (x86)\NetBeans 8.1\java\modules\ext\eclipselink\eclipselink.jar;C:\Program Files (x86)\NetBeans 8.1\java\modules\ext\eclipselink\javax.persistence_2.1.0.v201304241213.jar;C:\Program Files (x86)\NetBeans 8.1\java\modules\ext\eclipselink\org.eclipse.persistence.jpa.jpql_2.5.2.v20140319-9ad6abd.jar" />
     <property name="ant.file.Creche-impl" value="C:\Users\ITU\Documents\NetBeansProjects\Creche\nbproject\build-impl.xml" />
-    <property name="libs.beans-binding.javadoc" value="C:\Program Files (x86)\NetBeans 8.1\java\docs\beansbinding-1.2.1-doc.zip" />
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+    <property name="libs.beans-binding.javadoc" value="C:\Program Files (x86)\NetBeans 8.1\java\docs\beansbinding-1.2.1-doc.zip" />
     <property name="java.vm.vendor" value="Oracle Corporation" />
     <property name="libs.CopyLibs.classpath" value="C:\Program Files (x86)\NetBeans 8.1\java\ant\extra\org-netbeans-modules-java-j2seproject-copylibstask.jar" />
     <property name="ant.file.Creche" value="C:\Users\ITU\Documents\NetBeansProjects\Creche\build.xml" />
@@ -426,62 +424,26 @@
     <property name="libs.CopyLibs.src" value="" />
     <property name="build.dir" value="build" />
     <property name="libs.jsp-compilation.classpath" value="C:\Program Files (x86)\NetBeans 8.1\extide\ant\lib\ant.jar;C:\Program Files (x86)\NetBeans 8.1\enterprise\modules\ext\servlet3.1-jsp2.3-api.jar;C:\Program Files (x86)\NetBeans 8.1\enterprise\modules\ext\glassfish-jspparser-4.0.jar;C:\Program Files (x86)\NetBeans 8.1\enterprise\modules\ext\jsf-2_2\javax.faces.jar;C:\Program Files (x86)\NetBeans 8.1\enterprise\modules\ext\jstl-api.jar;C:\Program Files (x86)\NetBeans 8.1\extide\ant\lib\ant-launcher.jar" />
-    <property name="j2ee.platform.is.jsr109" value="true" />
     <property name="selected.browser" value="Chrome" />
+    <property name="j2ee.platform.is.jsr109" value="true" />
     <property name="ant.version" value="Apache Ant(TM) version 1.9.4 compiled on April 29 2014" />
-    <property name="file.encoding" value="Cp1252" />
     <property name="build.classes.excludes" value="**/*.java,**/*.form" />
-    <property name="jdkBug6558476" value="false" />
+    <property name="file.encoding" value="Cp1252" />
     <property name="javadoc.nonavbar" value="false" />
+    <property name="jdkBug6558476" value="false" />
     <property name="libs.spring-webmvc4.0.classpath" value="C:\Program Files (x86)\NetBeans 8.1\java\modules\ext\spring-4\spring-webmvc-4.0.1.RELEASE.jar" />
     <property name="platform.active" value="default_platform" />
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
     <property name="war.ear.name" value="Creche.war" />
     <property name="libs.javaee-web-api-7.0.javadoc" value="C:\Program Files (x86)\NetBeans 8.1\enterprise\docs\javaee-doc-api.jar" />
   </properties>
-  <testcase classname="creche.ParentTest" name="testGetnbEnfant" time="2.654" />
-  <testcase classname="creche.ParentTest" name="testMain" time="0.104" />
-  <testcase classname="creche.ParentTest" name="testGetNbParent" time="0.068">
-    <failure message="expected:&lt;0&gt; but was:&lt;7&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;0&gt; but was:&lt;7&gt;
-	at creche.ParentTest.testGetNbParent(ParentTest.java:135)
-</failure>
-  </testcase>
-  <testcase classname="creche.ParentTest" name="testSupprimerTout" time="0.121" />
-  <testcase classname="creche.ParentTest" name="testSupprimerParent" time="0.037" />
-  <testcase classname="creche.ParentTest" name="testGetAllEnfant" time="0.102">
-    <failure message="expected array was null" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected array was null
-	at creche.ParentTest.testGetAllEnfant(ParentTest.java:93)
-</failure>
-  </testcase>
-  <testcase classname="creche.ParentTest" name="testGetAllParent" time="0.09">
-    <failure message="expected array was null" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected array was null
-	at creche.ParentTest.testGetAllParent(ParentTest.java:164)
-</failure>
-  </testcase>
-  <testcase classname="creche.ParentTest" name="testAddParent" time="0.116" />
-  <testcase classname="creche.ParentTest" name="testGetIdParent" time="0.058">
-    <failure message="expected:&lt;0&gt; but was:&lt;13&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;0&gt; but was:&lt;13&gt;
-	at creche.ParentTest.testGetIdParent(ParentTest.java:49)
-</failure>
-  </testcase>
-  <testcase classname="creche.ParentTest" name="testGetParent" time="0.033">
-    <failure message="expected:&lt;null&gt; but was:&lt;creche.Parent@1b0d3ed&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;null&gt; but was:&lt;creche.Parent@1b0d3ed&gt;
-	at creche.ParentTest.testGetParent(ParentTest.java:150)
-</failure>
-  </testcase>
-  <system-out><![CDATA[getnbEnfant
-main
+  <testcase classname="creche.ParentTest" name="testMain" time="1.524" />
+  <testcase classname="creche.ParentTest" name="testGetNbParent" time="0.107" />
+  <system-out><![CDATA[main
 2
 Rabekoto
 Rabe
 getNbParent
-supprimerTout
-supprimerParent
-getAllEnfant
-getAllParent
-addParent
-getIdParent
-getParent
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
