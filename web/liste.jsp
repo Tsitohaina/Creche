@@ -84,6 +84,7 @@
                                                                 </ul>
                                                           </li>
 							  <li><a href="listefacture.jsp">Facture</a></li>
+                                                          <li><a href="inscription.jsp" >Inscription utilisateur</a></li>
 							</ul>
 						</div>
 					</nav>
